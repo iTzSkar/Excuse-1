@@ -1,6 +1,6 @@
-token=YOUR BOT TOKEN HERE
-owner=YOUR OWNER ID HERE
-prefix=YOUR PREFIX HERE!!!
+token=NTA2OTA5ODIzMDI4MTY2NjY2.DrpAKw.J-B2ObRNSIMBkSNCgFMMX_OGxQc
+owner=393435687594229761
+prefix=m
 game=
 stayinchannel=true
 songinstatus=false
